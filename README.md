@@ -134,6 +134,6 @@ Bu komponent tam professional standartlarda hazırlanmışdır və aşağıdakı
 
 ---
 
-**Müəllif**: [Sizin Adınız]  
+**Müəllif**: Nurlan Məmmədli 
 **Tarix**: May 2024  
 **React Version**: 18.2.0
